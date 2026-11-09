@@ -42,5 +42,5 @@ display and calculate, and Activities for screen navigation.
 
 ## Image credit
 
-Logo: [Tracy Chilembo], [https://github.com/chilembotracy-crypto/SpendingTracker/edit/master/README.md], [licence]
+Logo: [Tracy Chilembo], [https://github.com/chilembotracy-crypto/SpendingTracker], [licence]
 
